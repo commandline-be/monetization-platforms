@@ -6,7 +6,7 @@ categories:
 - Infrastructure
 - SaaS
 tags:
-- Live
+- Discontinued
 - Open source friendly
 - Developer friendly
 draft: false
@@ -20,7 +20,7 @@ description: "Staroid is a hosting platform that turns open source projects into
 organization: "Corporation"
 monetization: "A cut from users running your project on the SaaS platform"
 technology: "Close source"
-status: "Live"
+status: "Discontinued"
 activity: 10
 activity_text: "Less than 10 projects"
 payment_services: "Sripe"
